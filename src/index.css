@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+:root {
+  background-color: #020617;
+  color: white;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  /* Membuat background grid kotak-kotak yang sama di seluruh web */
+  background-image:
+    linear-gradient(#1e293b 1px, transparent 1px),
+    linear-gradient(90deg, #1e293b 1px, transparent 1px);
+  background-size: 40px 40px;
+  background-attachment: fixed; /* Agar grid tetap di tempat saat di-scroll */
+}
+
+html {
+  scroll-behavior: smooth;
+}
