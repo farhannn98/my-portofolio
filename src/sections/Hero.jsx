@@ -22,7 +22,7 @@ const Hero = () => {
             className="overflow-hidden whitespace-nowrap bg-blue-500/10 border border-blue-500/30 px-3 py-1 pb-2 rounded-md mb-4"
           >
             <span className="text-blue-400 text-xs font-mono tracking-widest uppercase">
-              System Ready: Developer_Profil
+              System Ready: Developer_Profile
             </span>
           </motion.div>
 
