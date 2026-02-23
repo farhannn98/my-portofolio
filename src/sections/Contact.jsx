@@ -52,7 +52,7 @@ const Contact = () => {
                 boxShadow: "0 0 30px rgba(37, 99, 235, 0.5)",
               }}
               whileTap={{ scale: 0.95 }}
-              href="mailto:emailkamu@gmail.com"
+              href="mailto:farhanariyadi29@gmail.com"
               className="relative group bg-blue-600 text-white px-10 py-4 rounded-2xl font-black tracking-widest transition-all overflow-hidden"
             >
               <span className="relative z-10 flex items-center gap-3">
